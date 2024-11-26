@@ -1,3 +1,5 @@
+<div align="center">
+
 ### 🌟 *About me* 🌟
 
 Information engineer, chess player, linux enthusiast, python and rust programmer.
@@ -18,6 +20,8 @@ Not so many, not so good.
 ![ctrlcoco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ctrlcoco&theme=gruvbox&hide_border=false)
 
 ![ctrlcoco's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlcoco&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
+
+<div>
 
 <!--
 ---
