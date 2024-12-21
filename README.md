@@ -14,8 +14,6 @@ Information engineer, linux enthusiast, chess player, python and rust programmer
 
 ### Things that I'm familiar with
 
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
@@ -27,3 +25,5 @@ Information engineer, linux enthusiast, chess player, python and rust programmer
 <img align="left" alt="Raspberry-pi" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
 
 <img align="left" alt="Arch Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg">
+
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
