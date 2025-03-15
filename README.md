@@ -1,6 +1,6 @@
 ### About me
 
-Information engineer, linux enthusiast, chess player, python and rust programmer.
+Information engineer, linux enthusiast, chess player, python and rust developer.
 
 ---
 
