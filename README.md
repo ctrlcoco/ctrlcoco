@@ -18,7 +18,7 @@ Information engineer, linux enthusiast, chess player, python and rust programmer
 
 <img align="left" alt="Bash" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 
-<img align="left" alt="Rust" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
+<img align="left" alt="Rust" width="32px" src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-512x512.png">
 
 <img align="left" alt="Debian" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 
