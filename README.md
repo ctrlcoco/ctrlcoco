@@ -30,8 +30,8 @@ Information engineer, linux enthusiast, chess player, python and rust programmer
 
 <img align="left" alt="Delphi" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/delphi/delphi-original.svg">
 
-<img align="left" alt="Anaconda" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
-
-<img align="left" alt="Flask" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
+<img align="left" alt="Flask" width="32px" src="https://raw.githubusercontent.com/pallets/flask/refs/heads/stable/docs/_static/flask-name.svg">
 
 <img align="left" alt="Sqlite" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg">
+
+<img align="left" alt="Anaconda" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
