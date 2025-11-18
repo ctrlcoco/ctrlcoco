@@ -24,14 +24,15 @@ Information engineer, linux enthusiast, chess player, python and rust programmer
 
 <img align="left" alt="Raspberry-pi" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
 
-<img align="left" alt="Arch Linux" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg">
+<img align="left" alt="Arch Linux" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg">
 
 <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 
-<img align="left" alt="Delphi" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/delphi/delphi-original.svg">
+<img align="left" alt="Delphi" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/delphi/delphi-original.svg">
 
 <img align="left" alt="Flask" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flask/flask-original.svg">
 
-<img align="left" alt="Sqlite" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+<img align="left" alt="Sqlite" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg">
 
-<img align="left" alt="Anaconda" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
+<img align="left" alt="Anaconda" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
+
