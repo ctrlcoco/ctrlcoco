@@ -1,6 +1,6 @@
 ### About me
 
-Information engineer, linux enthusiast, chess player, python and rust developer.
+Information engineer, linux enthusiast, chess player, python and rust programmer.
 
 ---
 
@@ -24,8 +24,15 @@ Information engineer, linux enthusiast, chess player, python and rust developer.
 
 <img align="left" alt="Raspberry-pi" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
 
-<img align="left" alt="Anaconda" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
-
 <img align="left" alt="Arch Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg">
 
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+
+<img align="left" alt="Delphi" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/delphi/delphi-original.svg">
+
+<img align="left" alt="Anaconda" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
+
+<img align="left" alt="Flask" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
+
+<img align="left" alt="Sqlite" width="26px" src="
+https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg">
