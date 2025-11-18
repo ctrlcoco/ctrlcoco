@@ -34,5 +34,4 @@ Information engineer, linux enthusiast, chess player, python and rust programmer
 
 <img align="left" alt="Flask" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
 
-<img align="left" alt="Sqlite" width="26px" src="
-https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg">
+<img align="left" alt="Sqlite" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg">
