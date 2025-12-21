@@ -36,5 +36,6 @@ Information engineer, linux enthusiast, chess player, python and rust programmer
 
 <img align="left" alt="Sqlite" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg">
 
-<img align="left" alt="Anaconda" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
+<img align="left" alt="OpenCv" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
 
+<img align="left" alt="Anaconda" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
