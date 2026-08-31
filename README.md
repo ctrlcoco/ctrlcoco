@@ -11,7 +11,6 @@ Information engineer, linux enthusiast, chess player, python and rust programmer
 
 ![ctrlcoco's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlcoco&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
----
 --->
 
 ### Things that I'm familiar with
@@ -20,7 +19,7 @@ Information engineer, linux enthusiast, chess player, python and rust programmer
 
 <img align="left" alt="Bash" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 
-<img align="left" alt="Rust" width="32px" src="https://raw.githubusercontent.com/rust-lang/rust-artwork/refs/heads/master/logo/rust-logo-512x512.png">
+<img align="left" alt="Rust" width="32px" src="https://avatars.githubusercontent.com/u/5430905?s=60&v=4">
 
 <img align="left" alt="Debian" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 
@@ -38,4 +37,6 @@ Information engineer, linux enthusiast, chess player, python and rust programmer
 
 <img align="left" alt="OpenCv" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
 
-<img align="left" alt="Anaconda" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
+<!---
+  <img align="left" alt="Anaconda" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
+--->
